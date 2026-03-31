@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MY KEY · 마이키</title>
+    <meta name="description" content="키워드로 나를 소개하는 관심사 매칭 서비스" />
+    <meta property="og:title" content="MY KEY · 마이키" />
+    <meta property="og:description" content="키워드로 나를 소개하는 관심사 매칭 서비스" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
